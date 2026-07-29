@@ -1,0 +1,2 @@
+# Music-Store-Analysis-Chinook-Database-Repo-Project
+ The Chinook database is a sample digital music store dataset that models the structure and operations of an online music retail platform (similar to iTunes). It contains realistic transactional data covering customers, invoices, tracks, albums, artists, genres, playlists, and employees. This dataset is widely used for learning SQL, data analysis.
